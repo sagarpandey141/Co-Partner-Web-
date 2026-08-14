@@ -75,7 +75,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or suggestions, feel free to reach out to the project maintainers at:
 - **Your Name**: sagarwebsec@gmail.com
-- **GitHub**: [sagarpandey142](https://github.com/sagarpandey142)
+- **GitHub**: [sagarpandey141](https://github.com/sagarpandey141)
 
 ## Acknowledgements
 
